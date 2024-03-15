@@ -4,7 +4,7 @@ Este repositório oferece um guia passo a passo para iniciar uma aplicação web
 
 ## **Requerimentos**
 
-1- Docker instalado no seu sistema.
+1- Docker instalado no seu sistema. Se não tiver, você pode encontrá-lo em [Docker Installation Guide](https://docs.docker.com/get-docker/).
 
 2- Ter um contaier redis rodando
 
