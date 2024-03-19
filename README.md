@@ -59,4 +59,4 @@ A imagem utilizada para a aplicação é baseada no conceito Distroless, que pro
 
 ## **Repositório da Imagem Docker**
 Você pode encontrar o repositório da imagem Docker no Docker Hub através do seguinte link:
-https://hub.docker.com/r/k0dy/linuxtips-giropops-senhas
+[Docker hub K0dy](https://hub.docker.com/r/k0dy/linuxtips-giropops-senhas).
