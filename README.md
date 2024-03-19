@@ -10,6 +10,18 @@ Este repositório oferece um guia passo a passo para iniciar uma aplicação web
 
 3- Criar uma network para os dois containers 
 
+## **Clonando o Repositório**
+
+Antes de iniciar a aplicação, você precisará clonar o repositório Git para obter os arquivos necessários. Para fazer isso, siga estas etapas:
+
+```bash
+git clone https://github.com/k0ody/LINUXtips-Giropops-Senhas.git
+
+```
+
+Após clonar o repositório, você estará pronto para iniciar a aplicação seguindo as instruções abaixo.
+
+
 ## **Iniciando a aplicação**
 
 Criando a network:
