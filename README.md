@@ -58,4 +58,5 @@ A imagem Docker utilizada foi submetida à análise de segurança pelo Trivy e n
 A imagem utilizada para a aplicação é baseada no conceito Distroless, que promove a segurança e a eficiência dos containers, fornecendo apenas as dependências necessárias para a execução da aplicação, sem um sistema operacional completo.
 
 ## **Repositório da Imagem Docker**
-Você pode encontrar o repositório da imagem Docker no Docker Hub através do seguinte link: k0dy/linuxtips-giropops-senha-distroless.
+Você pode encontrar o repositório da imagem Docker no Docker Hub através do seguinte link:
+https://hub.docker.com/r/k0dy/linuxtips-giropops-senhas
