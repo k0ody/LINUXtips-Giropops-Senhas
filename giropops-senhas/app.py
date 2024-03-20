@@ -5,7 +5,6 @@ import random
 import os
 from prometheus_client import Counter, start_http_server, generate_latest
 
-
 app = Flask(__name__)
 
 redis_host = os.environ.get('REDIS_HOST', 'redis-service')
