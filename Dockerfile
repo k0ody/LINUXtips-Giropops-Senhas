@@ -11,6 +11,5 @@ ENV PATH=PATH:/home/nonroot/.local/bin/
 COPY ./giropops-senhas/app.py .
 COPY ./giropops-senhas/templates templates/
 COPY ./giropops-senhas/static static/
-
 EXPOSE 5000
 ENTRYPOINT [ "flask","run","--host=0.0.0.0" ]
