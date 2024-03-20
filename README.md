@@ -1,9 +1,7 @@
 # **Linuxtips Giropops Senhas**
-
 Este repositório oferece um guia passo a passo para iniciar uma aplicação web em container. A aplicação consiste em um gerador de senhas aleatórias, e o processo de containerização é realizado utilizando práticas seguras e eficiência do Distroless
 
 ## **Requerimentos**
-
 1- Docker instalado no seu sistema. Se não tiver, você pode encontrá-lo em [Docker Installation Guide](https://docs.docker.com/get-docker/).
 
 2- Ter um contaier redis rodando
@@ -11,7 +9,6 @@ Este repositório oferece um guia passo a passo para iniciar uma aplicação web
 3- Criar uma network para os dois containers 
 
 ## **Clonando o Repositório**
-
 Antes de iniciar a aplicação, você precisará clonar o repositório Git para obter os arquivos necessários. Para fazer isso, siga estas etapas:
 
 ```bash
@@ -23,7 +20,6 @@ Após clonar o repositório, você estará pronto para iniciar a aplicação seg
 
 
 ## **Iniciando a aplicação**
-
 Criando a network:
 
 ```bash
