@@ -35,7 +35,7 @@ docker container run -d --network <nome da network criada> --name <nome do conta
 Iniciando o container da aplicação, o container roda na porta 5000, você pode especificar outra porta para acesso externo:
 
 ```bash
-docker container run -d -p <porta para acesso>:5000 --env REDIS_HOST=<nome do container redis> --network <nome da network criada> --name <nome para o container> k0dy/linuxtips-giropops-senhas-distroless:1.0
+docker container run -d -p <porta para acesso>:5000 --env REDIS_HOST=<nome do container redis> --network <nome da network criada> --name <nome para o container> k0dy/linuxtips-giropops-senha-distroless:1.0
 ```
 
 Verificar se os containers estão rodando
